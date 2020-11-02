@@ -22,6 +22,7 @@ namespace Csharp_Basics
             flower[1] = "rose";
             flower[2] = "Jasmine";
             flower[3] = "Lotus";
+            
 
 
             Console.WriteLine(flower[0]);
@@ -49,6 +50,7 @@ namespace Csharp_Basics
             {
                 Console.WriteLine("names{0}:{1}", i, names[i]);
             }
+            Console.WriteLine("array successfully created");
 
             Console.Read();
         }
