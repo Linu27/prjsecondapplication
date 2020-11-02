@@ -16,12 +16,13 @@ namespace Csharp_Basics
             //data type[] arrname=new datatype[size];
             //data type[] arrname=new datatype[size]{value1,value2,..valueN};
             //new--allocates memory
-            string[] flower = new string[4]; //0 ,1,2,3
+            string[] flower = new string[5]; //0 ,1,2,3
 
             flower[0] = "Lily";
             flower[1] = "rose";
             flower[2] = "Jasmine";
             flower[3] = "Lotus";
+            flower[5] = "White Rose";
             
 
 
